@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734885288 source:c:\users\bit\documents\codeforeces\game_division\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+

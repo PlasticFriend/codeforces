@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732444497 source:c:\users\bit\documents\codeforeces\vowelventure\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<cstring>
+	<iostream>
+	<algorithm>
+

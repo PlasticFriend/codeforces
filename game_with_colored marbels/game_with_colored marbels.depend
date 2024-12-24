@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1735024929 source:c:\users\bit\documents\codeforeces\game_with_colored marbels\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstring>
+	<math.h>
+	<bits/stdc++.h>
+

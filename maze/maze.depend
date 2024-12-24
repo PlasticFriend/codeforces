@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1732984988 source:c:\users\bit\documents\codeforeces\maze\main.cpp
+	<iostream>
+	<vector>
+

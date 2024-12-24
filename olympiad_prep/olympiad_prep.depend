@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734884056 source:c:\users\bit\documents\codeforeces\olympiad_prep\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

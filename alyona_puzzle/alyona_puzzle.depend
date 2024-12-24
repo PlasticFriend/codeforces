@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733211847 source:c:\users\bit\documents\codeforeces\alyona_puzzle\main.cpp
+	<vector>
+	<iostream>
+

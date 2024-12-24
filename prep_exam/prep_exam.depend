@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734937661 source:c:\users\bit\documents\codeforeces\prep_exam\main.cpp
+	<algorithm>
+	<iostream>
+	<string>
+

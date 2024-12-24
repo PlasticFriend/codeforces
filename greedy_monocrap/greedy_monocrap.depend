@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733152536 source:c:\users\bit\documents\codeforeces\greedy_monocrap\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

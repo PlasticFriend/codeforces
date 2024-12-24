@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734996584 source:c:\users\bit\documents\codeforeces\sohag_loves_string\main.cpp
+	<iostream>
+	<set>
+	<string>
+
